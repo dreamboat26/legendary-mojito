@@ -22,5 +22,5 @@ The results of the recommendation system, including performance metrics, user fe
 
 This Capstone Project on Machine Learning - Recommendation System showcases our expertise in designing and implementing recommendation algorithms. By successfully completing this project, we have gained valuable experience in solving real-world recommendation problems, managing data pipelines, and evaluating the performance of recommendation systems.
 
-We hope you find this project informative and inspiring for your own recommendation system endeavors. Feel free to explore the code, adapt it to your specific use case, and use it as a reference for your future machine learning projects.
+I hope you find this project informative and inspiring for your own recommendation system endeavors. Feel free to explore the code, adapt it to your specific use case, and use it as a reference for your future machine learning projects.
 
